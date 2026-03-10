@@ -1,0 +1,42 @@
+{
+  "name": "@usecortex/cli",
+  "version": "0.1.0",
+  "description": "Open-source CLI for usecortex — markdown sync + session capture",
+  "type": "module",
+  "bin": {
+    "cortex": "./bin/cortex.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "start": "node bin/cortex.js",
+    "test": "node --test src/**/*.test.js"
+  },
+  "keywords": [
+    "cortex",
+    "usecortex",
+    "knowledge-base",
+    "markdown",
+    "sync",
+    "ai",
+    "memory",
+    "cli"
+  ],
+  "author": "usecortex",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usecortex/cortex-cli"
+  },
+  "homepage": "https://usecortex.net",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
