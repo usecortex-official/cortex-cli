@@ -1,17 +1,17 @@
-# @usecortex/cli
+# @usecortex-official/cli
 
 Open-source CLI for [usecortex](https://usecortex.net) — sync markdown folders and capture session memories to your encrypted knowledge base.
 
 ## Install
 
 ```bash
-npm install -g @usecortex/cli
+npm install -g @usecortex-official/cli
 ```
 
 Or run directly:
 
 ```bash
-npx @usecortex/cli
+npx @usecortex-official/cli
 ```
 
 ## Setup

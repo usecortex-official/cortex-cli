@@ -1,5 +1,5 @@
 {
-  "name": "@usecortex/cli",
+  "name": "@usecortex-official/cli",
   "version": "0.1.0",
   "description": "Open-source CLI for usecortex — markdown sync + session capture",
   "type": "module",
