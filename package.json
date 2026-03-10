@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/usecortex/cortex-cli"
+    "url": "https://github.com/usecortex-official/cortex-cli"
   },
   "homepage": "https://usecortex.net",
   "engines": {
