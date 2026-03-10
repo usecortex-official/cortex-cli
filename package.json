@@ -4,7 +4,7 @@
   "description": "Open-source CLI for usecortex — markdown sync + session capture",
   "type": "module",
   "bin": {
-    "cortex": "./bin/cortex.js"
+    "cortex": "bin/cortex.js"
   },
   "files": [
     "bin/",
@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/usecortex-official/cortex-cli"
+    "url": "git+https://github.com/usecortex-official/cortex-cli.git"
   },
   "homepage": "https://usecortex.net",
   "engines": {
