@@ -109,6 +109,11 @@ cortex init --key ctx_sk_your_new_key
 
 Stored at `~/.cortex/config.json` (permissions: 600).
 
+## Links
+
+- [UseCortex](https://usecortex.net) — Create your account and manage knowledge
+- [cortex-mcp](https://github.com/usecortex-official/cortex-mcp) — MCP server for AI coding agents
+
 ## License
 
 MIT
